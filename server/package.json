@@ -1,0 +1,23 @@
+{
+  "name": "spl402-server-template",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "SPL-402 Server Template",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "@solana/spl-token": "^0.4.14",
+    "@solana/web3.js": "^1.95.8",
+    "bs58": "^6.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "openai": "^6.8.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "spl402": "^1.0.5"
+  }
+}

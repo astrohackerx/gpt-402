@@ -1,16 +1,46 @@
-# React + Vite
+🚀 GPT-402 Powered by spl402 protocol
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+No signups. No subscriptions.
+Just pay-per-prompt.
 
-Currently, two official plugins are available:
+💬 Chat with AI for $0.01 per message
+💰 Paid instantly with SPL402 tokens
+⏱️ Full payment clears in 1 second
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+All powered by 👉 spl402.org
 
-## React Compiler
+1️⃣ The Problem:
+AI is locked behind subscriptions & API keys.
+People want to try premium LLM's, not commit to $20/month.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+2️⃣ The Solution:
+With SPL402, you just pay per prompt.
+No account. No card. Just send tokens → get reply.
 
-## Expanding the ESLint configuration
+3️⃣ How It Works:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1 prompt = 1000 SPL402
+
+Payment settles in 1 second
+
+No servers, no forms, no friction
+
+Just instant AI chats paid via on-chain micropayments ⚡
+
+4️⃣ Why It’s Big:
+This is the first real "AI Agent Economy" working app.
+Software paying software.
+Humans interacting with AI like sending a tip.
+
+5️⃣ The Vision:
+👉 AI APIs paid directly by users
+👉 No intermediaries
+👉 Pure on-chain SaaS
+
+The SaaS of the future runs on SPL402 🪙
+
+💥 Try it yourself
+
+Chat with AI — pay only for what you use.
+
+Cheaper than coffee. Faster than PayPal.
